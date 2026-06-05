@@ -1,6 +1,6 @@
-# Olá, eu sou o Dalton Mavungo 
+# Olá, eu sou o Dalton Mavungo 👋
 
-Desenvolvedor focado em sistemas embarcados e desenvolvimento web.
+Programo para servir. Assim como o maior de todos veio para facilitar a vida das pessoas, eu uso o código para fazer o mesmo.
 Baseado em Angola 🇦🇴
 
 ## 🛠️ Tecnologias que uso
@@ -56,3 +56,21 @@ Baseado em Angola 🇦🇴
 ## 👁️ Visitantes
 
 ![Visitors](https://komarev.com/ghpvc/?username=daltonmavungo&color=blue&style=flat&label=Visitantes)
+
+## 🏆 Certificações Google Cloud
+
+<a href="https://www.credly.com/badges/e0148100-7c92-4a80-9691-631afb21b252/public_url">
+  <img src="https://images.credly.com/images/951db2d7-4997-4b2a-89de-1a1297236e77/linkedin_thumb_blob" width="120" alt="Orchestrate Multi-agent Workflows with Gemini Enterprise"/>
+</a>
+<a href="https://www.credly.com/badges/dc0fd5f1-db7a-476e-bd05-b34a1bc89542/public_url">
+  <img src="https://images.credly.com/images/000655a5-3837-4c38-b906-2eb9c059ab36/linkedin_thumb_blob" width="120" alt="Engineer AI Agents with Agent Development Kit (ADK)"/>
+</a>
+<a href="https://www.credly.com/badges/8ce85f72-58fe-4c66-9f14-94d8b02c2079/public_url">
+  <img src="https://images.credly.com/images/3c923d13-42da-4765-995d-59f3030e042a/linkedin_thumb_blob" width="120" alt="Create Your First Gemini Enterprise Application"/>
+</a>
+
+## 📬 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josedaltonmavungo/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:josedalton258@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/244946822633)
